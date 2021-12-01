@@ -10,7 +10,7 @@
 ### Repo 
 * Repo comes from the word "Repository". 
 * It can be also known as a project.
-* Can have multiple files associated with it 
+* Can have multiple files associated with it.
 
 ### Commit 
 * Commit is like the word "save". You make changes and click "commit changes" to save it. 
