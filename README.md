@@ -6,7 +6,7 @@
 * Github is a web service where you can sign up and have an account. 
 * Can do a lot of git and many other features on it.
 * Github manages the project through Git.
-* 
+
 ### Repo 
 * Repo comes from the word "Repository". 
 * It can be also known as a project.
